@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
         Working on : A senior in Ajou University 
 
-        To contact me : <a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-#EA4335?style=social&logo=appveyor&logoColor=#ff8a65"/></a> ekfaktldk11@gmail.com
+To contact me : <a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-#EA4335?style=social&logo=appveyor&logoColor=#ff8a65"/></a> ekfaktldk11@gmail.com
