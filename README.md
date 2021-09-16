@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
         Version : 26.0.0
         
-        /*made in Korea*/
+/*made in Korea*/
 
 # Brief introduction
 
