@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Device Specification
+
+        Device Name : Herrit Kim
+
+        Processor : Human Brain ( 21th version )
+
+        RAM : STM ( short-term memory )
+
+        Version : 26.0.0
+
+# Brief introduction
+
+        Working on : A senior in Ajou University 
+
+        To contact me : <a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-#EA4335?style=social&logo=appveyor&logoColor=#ff8a65"/></a> ekfaktldk11@gmail.com
