@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 👋
 
 <!--
 **ekfaktldk11/ekfaktldk11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +23,8 @@ Here are some ideas to get you started:
         RAM : STM ( short-term memory )
 
         Version : 26.0.0
+        
+        /*made in Korea*/
 
 # Brief introduction
 
