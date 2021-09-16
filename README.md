@@ -41,4 +41,5 @@ Here are some ideas to get you started:
 
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>  <a href="https://www.qt.io/" target="_blank"><img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=Qt&logoColor=white"/></a>  <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>  <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>  
 
+-----------------------------------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekfaktldk11&show_icons=true&theme=react)
