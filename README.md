@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 - Favorite IT field : FE, Android, ML
 
+- Footsteps to become a developer : <a href="https://www.notion.so/The-story-of-projects-110b08ab727c42659bfd76962522e7e4" target="_blank"><img src="https://img.shields.io/badge/Notion-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+
 - To contact me :   <a href="mailto:ekfaktldk11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 # Tech Stack (used at least once)
