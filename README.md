@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - Favorite IT field : FE, Android, ML
 
-- Footsteps to become a developer : <a href="https://bottlenose-eyelash-a13.notion.site/The-story-of-projects-110b08ab727c42659bfd76962522e7e4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+- Footsteps to become a skilled developer : <a href="https://bottlenose-eyelash-a13.notion.site/The-story-of-projects-110b08ab727c42659bfd76962522e7e4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 - To contact me :   <a href="mailto:ekfaktldk11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
