@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
         RAM : STM ( short-term memory )
 
-        Version : 26.0.0
         
 *made in Korea*
 
