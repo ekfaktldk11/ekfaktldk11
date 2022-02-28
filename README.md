@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 # Brief introduction
 
-- Working on : A senior in Ajou University 
+- Recently I graduated Ajou University. ( 2022.02.22 )
 
 - Major : Software
 
-- Favorite IT field : FE, Android, ML
+- Favorite IT field : FrontEnd, Android, Machine Learning
 
 - Footsteps to become a skilled developer : <a href="https://bottlenose-eyelash-a13.notion.site/The-story-of-projects-110b08ab727c42659bfd76962522e7e4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
