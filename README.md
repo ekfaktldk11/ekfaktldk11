@@ -2,11 +2,11 @@
 
 - Introduce : <a href="https://bottlenose-eyelash-a13.notion.site/792c80558bba4da38b55c50aea0f6c56" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
-- Recently I graduated Ajou University. ( 2022.02.22 )
+<!-- - Recently I graduated Ajou University. ( 2022.02.22 )
 
 - Major : Software
 
-- Favorite IT field : FrontEnd, Android, Machine Learning
+- Favorite IT field : FrontEnd, Android, Machine Learning -->
 
 - Velog : <a href="https://velog.io/@ekfaktldk11" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
